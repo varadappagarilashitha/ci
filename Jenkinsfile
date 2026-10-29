@@ -14,7 +14,8 @@ echo 'Building the application...'
 }
 
 stage('Test') { steps {
-echo 'Testing the application...' echo 'All tests passed successfully!'
+echo 'Testing the application...'
+echo 'All tests passed successfully!'
 }
 }
 
